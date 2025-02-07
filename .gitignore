@@ -1,0 +1,14 @@
+# Python compilation
+__pycache__
+*.pyc
+
+# packaging
+dist
+
+# vim
+*.swo
+*.swp
+
+# testing
+.coverage
+.hypothesis
